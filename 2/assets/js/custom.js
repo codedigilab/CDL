@@ -1,10 +1,5 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Foodio - Fast Food & Restaurant HTML Template
-
-
-    Note: This is Custom Js file
-
 -----------------------------------------------------------------------------------
 
     [Table of contents]
