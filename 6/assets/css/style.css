@@ -1,11 +1,5 @@
 /*-----------------------------------------------------------------
 
-Template Name: Agenshark - Startup Agency HTML Template
-Author:  Gramentheme
-Author URI: https://themeforest.net/user/gramentheme/portfolio
-Developer: Kawser Ahmed Roni
-Version: 1.0.0
-Description: Gratech - IT Service HTML5 Template
 
 -------------------------------------------------------------------
 CSS TABLE OF CONTENTS
