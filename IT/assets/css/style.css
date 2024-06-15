@@ -60,6 +60,11 @@ Default CSS
   --transition: .5s;
 }
 
+.borderkhalid{
+    border-style: solid;
+    border-radius: 14px;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -1071,8 +1076,8 @@ Hero Area Style
   z-index: 1;
   position: relative;
   background-color: rgb(41, 45, 60);
-  padding-top: 160px;
-  padding-bottom: 160px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .banner-area .container-fluid {
   max-width: 1580px;
